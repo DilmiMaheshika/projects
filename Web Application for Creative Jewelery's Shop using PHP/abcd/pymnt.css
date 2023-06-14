@@ -1,0 +1,40 @@
+
+.bg{
+	background-color: black;
+	min-height: 200;
+}
+.bg1{
+	background-image:url("images/reg bg.jpg");
+}
+h1{
+	color: aliceblue;
+	text-align: center;
+	align-content: center;
+	font-style: italic;
+	font-family:allura;
+}
+h2{
+	align-content: center;
+	text-align: center;
+	color: black;
+}
+p{
+	align-content: center;
+	text-align: center;
+	color: black;
+}
+
+
+h6{
+	color: aliceblue;
+	align-content: center;
+	text-align: center;
+}
+.button{
+	border-radius: 50%;
+}
+.container{
+	border:double;
+	border-color:slategrey;
+	max-height:1000;
+}

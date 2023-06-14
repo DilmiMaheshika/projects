@@ -1,0 +1,80 @@
+.logo{
+	border-radius: 30%;
+}
+.bg{
+	background: #C2C2C2;
+}
+
+h1{
+	color: aliceblue;
+	text-align: center;
+	align-content: center;
+	font-style: italic;
+	font-family:allura;
+	font-size: 2vw;
+}
+h3{
+	color:#000;
+	text-align:center;
+	
+}
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.box{
+	width: 1000px;
+	padding: 40px;
+	position:absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: #6C6464;
+	text-align: center;
+	border-radius: 10px;
+	
+}
+.box h2{
+	color: white;
+	text-transform: uppercase;
+	font-weight: 500;
+}
+.box input[type=email],input[type=password],input[type=text],input[type=date]{
+	background: none;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	border: 2px solid #0DE3D5;
+	padding: 14px 10px;
+	width: 200;
+	outline: none;
+	color: white;
+	border-radius: 24px;
+	transition: 0.25s;
+	
+}
+.box input[type=email]:focus,input[type=password]:focus,input[type=text]:focus,input[type=date]:focus{
+	width: 280px;
+	border-color: #0F9BA8;
+	
+}
+.box input[type=submit]{
+	background: none;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	border: 2px solid #0F9BA8;
+	padding: 14px 40px;
+	outline: none;
+	color: white;
+	border-radius: 24px;
+	transition: 0.25s;
+	cursor: pointer;
+}
+.box input[type=submit]:hover{
+	background: #0F9BA8;
+}
+
+
+

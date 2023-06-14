@@ -1,0 +1,67 @@
+.bg{
+	background-color: black;
+	min-height: 200;
+}
+
+h1{
+	color: aliceblue;
+	text-align: center;
+	align-content: center;
+	font-style: italic;
+	font-family:allura;
+}
+#maindiv2 #content
+{
+	padding-left:25px;
+}
+.single
+{
+	width:290px;
+}
+@media(max-width:768px)
+{
+	.single
+	{
+		width:60%;
+		margin: 0 auto;
+	}
+}
+#maindiv2 #content .product
+{
+	background:#ffffff;
+	border: solid 1px #e6e6e6;
+	margin-bottom:30px;
+	box-sizing:border-box;
+	
+}
+#maindiv2 #content .product .text p.price
+{
+	font-size:18px;
+	text-align:center;
+	font-weight:400;
+}
+#maindiv2 #content .product .text
+{
+	padding: 10px 10px 0px;
+}
+#maindiv2 #content .product .text .button
+{
+	text-align:center;
+	clear:both;
+}
+#maindiv2 #content .product .text .button .btn
+{
+	margin-bottom:10px;
+}
+#maindiv2 #content .product .text h3
+{
+	text-align:center;
+	font-size:20px;
+}
+#maindiv2 #content .product .text h3 a
+{
+	color:rgb(85, 85, 85);
+}
+
+
+

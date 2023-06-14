@@ -1,0 +1,26 @@
+.navbar-collapse .right
+{
+	float:right;
+}
+.box
+{
+	background:#ffffff;
+	margin: 0 0 30px;
+	border:solid 1px #e6e6e6;
+	box-sizing:border-box;
+	padding:20px;
+	box-shadow:0px 2px 5px rgba(0, 0, 0, .3);
+}
+.box .btn
+{
+	float:right;
+}
+
+/*tbody*/
+#cart .table tbody tr td img
+{
+	width:500px;
+}
+.form{
+ left: 5%;
+}
