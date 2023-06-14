@@ -1,0 +1,105 @@
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.exe.config
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.exe
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.pdb
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\BusinessLayer.dll
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\DataLayer.dll
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\BusinessLayer.pdb
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\DataLayer.pdb
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.CategoryMange.resources
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.frmStudent.resources
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.LoginForm.resources
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.Properties.Resources.resources
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.CopyComplete
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.exe
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.pdb
+C:\Users\user\source\repos\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.UserLoginOption.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.exe.config
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.exe
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\DataLayer.dll
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\DataLayer.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.CategoryMange.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.frmStudent.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.LoginForm.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.Properties.Resources.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.UserLoginOption.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.CopyComplete
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.exe
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\New folder\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.exe.config
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.exe
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\DataLayer.dll
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\DataLayer.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.CategoryMange.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.frmStudent.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.LoginForm.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.Properties.Resources.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.UserLoginOption.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.CopyComplete
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.exe
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Assignment Final (Black_Lotus)\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.exe.config
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Assignment Final (Black_Lotus)\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.exe
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Assignment Final (Black_Lotus)\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Assignment Final (Black_Lotus)\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Assignment Final (Black_Lotus)\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\DataLayer.dll
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Assignment Final (Black_Lotus)\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Assignment Final (Black_Lotus)\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\DataLayer.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Assignment Final (Black_Lotus)\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Assignment Final (Black_Lotus)\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.CategoryMange.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Assignment Final (Black_Lotus)\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.LoginForm.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Assignment Final (Black_Lotus)\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.Properties.Resources.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Assignment Final (Black_Lotus)\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.UserLoginOption.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Assignment Final (Black_Lotus)\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Assignment Final (Black_Lotus)\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Assignment Final (Black_Lotus)\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.CopyComplete
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Assignment Final (Black_Lotus)\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.exe
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Assignment Final (Black_Lotus)\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.pdb
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.exe.config
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.exe
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.pdb
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\DataLayer.dll
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\DataLayer.pdb
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csprojAssemblyReference.cache
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.CategoryMange.resources
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.LoginForm.resources
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.Properties.Resources.resources
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.UserLoginOption.resources
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.GenerateResource.cache
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.CopyComplete
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.exe
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.exe.config
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.exe
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\ThirdLayerArchitecture.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\DataLayer.dll
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\bin\Debug\DataLayer.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.CategoryMange.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.LoginForm.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.Properties.Resources.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.UserLoginOption.resources
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.csproj.CopyComplete
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.exe
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\ThirdLayerArchitecture\obj\Debug\ThirdLayerArchitecture.pdb

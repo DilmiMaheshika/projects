@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\ThirdLayerArchitecture\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\user\source\repos\ThirdLayerArchitecture\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\user\source\repos\ThirdLayerArchitecture\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ThirdLayerArchitecture\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\user\source\repos\ThirdLayerArchitecture\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\user\source\repos\ThirdLayerArchitecture\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\DataLayer\obj\Debug\DataLayer.pdb

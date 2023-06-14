@@ -1,0 +1,27 @@
+C:\Users\user\source\repos\ThirdLayerArchitecture\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\user\source\repos\ThirdLayerArchitecture\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\user\source\repos\ThirdLayerArchitecture\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\user\source\repos\ThirdLayerArchitecture\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\user\source\repos\ThirdLayerArchitecture\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ThirdLayerArchitecture\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ThirdLayerArchitecture\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\ThirdLayerArchitecture\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\user\source\repos\ThirdLayerArchitecture\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\user\Desktop\FINAL WINDOWS Assignment\ThirdLayerArchitecture\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\ICBT\ICBT Assignment\Windows Assignment document\Windows Appliation Development Assignment\ThirdLayerArchitecture\BusinessLayer\obj\Debug\BusinessLayer.pdb
